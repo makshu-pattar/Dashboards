@@ -1,12 +1,13 @@
-# Dashboards
-Excel Dashboard 1: https://shorturl.at/wxJLP  
-Excel Dashboard 2: https://shorturl.at/drvCY
+# Excel Dashboards
+Road Accident    : https://shorturl.at/wxJLP  
+Shopping Trends  : https://shorturl.at/drvCY
 
-PowerBI 1(Non-Interactive): https://shorturl.at/inuBW    
-PowerBI 1(Interactive): https://rb.gy/5tlu9i
+# Power BI Dashboards
+Super Market Sales (Non-Interactive)  : https://shorturl.at/inuBW    
+Super Market Sales (Interactive)      : https://rb.gy/5tlu9i
 
-PowerBI 2(Non-Interactive): https://rb.gy/76qeue   
-PowerBI 2(Interactive): https://rb.gy/eg739w
+Super Store Sales (Non-Interactive)  : https://rb.gy/76qeue   
+Super Store Sales (Interactive)      : https://rb.gy/eg739w
 
-PowerBI 3(Non-Interactive):https://shorturl.at/dqCI7  
-PowerBI 3(Interactive):https://shorturl.at/anBPY
+Sydney Property Sales (Non-Interactive)  :https://shorturl.at/dqCI7  
+Sydney Property Sales (Interactive)      :https://shorturl.at/anBPY
